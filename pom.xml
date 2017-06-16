@@ -33,12 +33,12 @@
         <repository>
             <id>srinu</id>
             <name>Internal Releases</name>
-            <url>http://35.192.11.202:8081/repository/mobilebank-rel/</url>
+            <url>http://http://104.197.213.196:8081/repository/mobilebank-rel/</url>
         </repository>
         <snapshotRepository>
             <id>srinu</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.192.11.202:8081/repository/maven-snapshots/</url>
+            <url>http://http://104.197.213.196:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
