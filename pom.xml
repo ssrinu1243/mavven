@@ -38,7 +38,7 @@
         <snapshotRepository>
             <id>srinu</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.226.250.66:8081/repository/maven-snapshots/</url>
+            <url>http://35.193.5.42:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
